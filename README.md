@@ -2,8 +2,6 @@
 
 **Official code for:**  
 📄 *Towards Robust Evaluation of Visual Activity Recognition: Resolving Verb Ambiguity with Sense Clustering*  
-**Authors**: Louie Hong Yao, Nicholas Jarvis, Tianyu Jiang  
-[[arXiv link]](https://arxiv.org/abs/2508.04945) <!-- Replace with actual link -->
 
 ---
 
@@ -118,21 +116,4 @@ Includes the **best clustering results** for the 504 imSitu target verbs, select
 
 You can use these files directly for analysis, evaluation, or visualization.
 
-
-
-
-## 📄 Citation
-
-If you find this work useful, please consider citing:
-
-```bibtex
-@misc{yao2025robust,
-      title={Towards Robust Evaluation of Visual Activity Recognition: Resolving Verb Ambiguity with Sense Clustering}, 
-      author={Louie Hong Yao and Nicholas Jarvis and Tianyu Jiang},
-      year={2025},
-      eprint={2508.04945},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2508.04945}, 
-}
 
