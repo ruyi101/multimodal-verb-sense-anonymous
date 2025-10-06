@@ -1,7 +1,7 @@
 # Visually Grounded Verb Sense Clustering
 
 **Official code for:**  
-📄 *Towards Robust Evaluation of Visual Activity Recognition: Resolving Verb Ambiguity with Sense Clustering*  
+📄 *Seeing Between the Verbs: Resolving Ambiguities with Multimodal Sense Clustering*  
 
 ---
 
